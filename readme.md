@@ -1,5 +1,9 @@
 # Fortnox API
 
+## Fortnox documentation
+[API documentation](https://apps.fortnox.se/apidocs)<br/>
+[Fortnox Developer Home](https://developer.fortnox.se/)
+
 ## Usage
 ```ts
 import {Client} from "@oh77/fortnox-api";
