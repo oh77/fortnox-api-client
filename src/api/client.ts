@@ -7,5 +7,3 @@ export class Client {
         this.Customer = new Customer(secret, token);
     }
 }
-
-

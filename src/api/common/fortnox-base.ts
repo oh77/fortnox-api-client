@@ -11,7 +11,7 @@ export class FortnoxBase {
     async request(
         method: string,
         endpoint: string,
-        body?: any) {
+        body?: any): Promise<any> {
 
         const url = `${this.baseUrl}${endpoint}`;
         const headers = new Headers({
