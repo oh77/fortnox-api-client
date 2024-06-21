@@ -1,0 +1,7 @@
+export enum CustomerVatType {
+    SEVAT = "SEVAT",
+    SEREVERSEDVAT = "SEREVERSEDVAT",
+    EUREVERSEDVAT = "EUREVERSEDVAT",
+    EUVAT = "EUVAT",
+    EXPORT = "EXPORT",
+}
