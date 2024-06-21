@@ -1,5 +1,7 @@
 {
   "name": "@oh77/fortnox-api",
-  "version": "0.1.1",
-  "exports": "./src/api/client.ts"
+  "version": "0.1.2",
+  "exports": {
+    "./Client": "./src/api/client.ts"
+  }
 }

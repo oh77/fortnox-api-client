@@ -1,9 +1,9 @@
 import { Customers } from "./customers/customers.ts";
 
 export class Client {
-    public readonly Customer: Customers;
+    public readonly Customers: Customers;
 
     constructor(secret: string, token: string) {
-        this.Customer = new Customers(secret, token);
+        this.Customers = new Customers(secret, token);
     }
 }
