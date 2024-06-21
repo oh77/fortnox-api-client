@@ -2,7 +2,7 @@ import {ICustomer} from "./models/customer.ts";
 import {FortnoxBase} from "../common/fortnox-base.ts";
 import { ICustomerListItem } from "./models/customer-list-item.ts";
 
-export class Customer extends FortnoxBase {
+export class Customers extends FortnoxBase {
 
     constructor(secret: string, token: string) {
         super(secret, token);
