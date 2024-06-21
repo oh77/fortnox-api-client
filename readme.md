@@ -1,7 +1,7 @@
-# Fortnox API - Javascript implementation
+# Fortnox API
 
 ## Usage
-```javascript
+```ts
 import {Client} from "@oh77/fortnox-api";
 
 const CLIENT_SECRET = < secret from Fortnox >;

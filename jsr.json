@@ -1,6 +1,6 @@
 {
   "name": "@oh77/fortnox-api",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "exports": {
     "./Client": "./src/api/client.ts"
   }
